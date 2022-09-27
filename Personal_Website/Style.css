@@ -6,4 +6,7 @@
 body {
     background-image: url("Personal_Website/macbook-m1-wallpapers.jpg");
     background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: auto;
+
 }
